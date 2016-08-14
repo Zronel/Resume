@@ -1,0 +1,20 @@
+.event-date {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+.event-name {
+  font-weight: 600;
+}
+.event-description {
+  font-size: 12px;
+}
+.img-circle {
+  height: 96px;
+}
+.contact-box {
+  width: 350px;
+  height: 600px;
+}
+.margin-t-60 {
+  margin-top: 240px!important;
+}
